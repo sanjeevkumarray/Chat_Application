@@ -1,5 +1,5 @@
 
-## Building a Real Time Chat Application with Spring Boot and Websocket
+## Building a Real Time Chat Application with Spring Boot and Websocket.
 
 ## What is Websocket?
 >  WebSocket is a computer communications protocol, providing full-duplex communication channels over a single TCP connection.
